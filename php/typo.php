@@ -7,26 +7,63 @@
 	<h4>Lorem ipsum dolor (h4)</h4>
 	<h5>Lorem ipsum dolor (h5)</h5>
 	<h6>Lorem ipsum dolor (h6)</h6>
-	<h1><span>Lorem ipsum dolor (h1 span)</span></h1>
-	<h2><span>Lorem ipsum dolor (h2 span)</span></h2>
-	<h3><span>Lorem ipsum dolor (h3 span)</span></h3>
-	<h4><span>Lorem ipsum dolor (h4 span)</span></h4>
-	<h5><span>Lorem ipsum dolor (h5 span)</span></h5>
-	<h6><span>Lorem ipsum dolor (h6 span)</span></h6>
+
 	<h1><a href="#"><span>Lorem ipsum dolor (h1 a)</span></a></h1>
 	<h2><a href="#"><span>Lorem ipsum dolor (h2 a)</span></a></h2>
 	<h3><a href="#"><span>Lorem ipsum dolor (h3 a)</span></a></h3>
 	<h4><a href="#"><span>Lorem ipsum dolor (h4 a)</span></a></h4>
 	<h5><a href="#"><span>Lorem ipsum dolor (h5 a)</span></a></h5>
 	<h6><a href="#"><span>Lorem ipsum dolor (h6 a)</span></a></h6>
+
+	<h1 class="h1">Heading Level1 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h1</h1>
+	<h2 class="h1">Heading Level2 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h1</h2>
+	<h3 class="h1">Heading Level3 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h1</h3>
+	<h4 class="h1">Heading Level4 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h1</h4>
+	<h5 class="h1">Heading Level5 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h1</h5>
+	<h6 class="h1">Heading Level6 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h1</h6>
+
+	<h1 class="h2">Heading Level1 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h2</h1>
+	<h2 class="h2">Heading Level2 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h2</h2>
+	<h3 class="h2">Heading Level3 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h2</h3>
+	<h4 class="h2">Heading Level4 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h2</h4>
+	<h5 class="h2">Heading Level5 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h2</h5>
+	<h6 class="h2">Heading Level6 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h2</h6>
+
+	<h1 class="h3">Heading Level1 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h3</h1>
+	<h2 class="h3">Heading Level2 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h3</h2>
+	<h3 class="h3">Heading Level3 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h3</h3>
+	<h4 class="h3">Heading Level4 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h3</h4>
+	<h5 class="h3">Heading Level5 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h3</h5>
+	<h6 class="h3">Heading Level6 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h3</h6>
+
+	<h1 class="h4">Heading Level1 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h4</h1>
+	<h2 class="h4">Heading Level2 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h4</h2>
+	<h3 class="h4">Heading Level3 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h4</h3>
+	<h4 class="h4">Heading Level4 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h4</h4>
+	<h5 class="h4">Heading Level5 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h4</h5>
+	<h6 class="h4">Heading Level6 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h4</h6>
+
+	<h1 class="h5">Heading Level1 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h5</h1>
+	<h2 class="h5">Heading Level2 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h5</h2>
+	<h3 class="h5">Heading Level3 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h5</h3>
+	<h4 class="h5">Heading Level4 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h5</h4>
+	<h5 class="h5">Heading Level5 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h5</h5>
+	<h6 class="h5">Heading Level6 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h5</h6>
+
+	<h1 class="h6">Heading Level1 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h6</h1>
+	<h2 class="h6">Heading Level2 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h6</h2>
+	<h3 class="h6">Heading Level3 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h6</h3>
+	<h4 class="h6">Heading Level4 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h6</h4>
+	<h5 class="h6">Heading Level5 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h6</h5>
+	<h6 class="h6">Heading Level6 <strong>Strong</strong> <b>bold</b> <span>span</span> <a href="#">link</a> <small>small</small> .h6</h6>
 	
-	<div class="choosenClass">
-		<h1>Lorem ipsum dolor (h1 wrapped by .choosenClass)</h1>
-		<h2>Lorem ipsum dolor (h2 wrapped by .choosenClass)</h2>
-		<h3>Lorem ipsum dolor (h3 wrapped by .choosenClass)</h3>
-		<h4>Lorem ipsum dolor (h4 wrapped by .choosenClass)</h4>
-		<h5>Lorem ipsum dolor (h5 wrapped by .choosenClass)</h5>
-		<h6>Lorem ipsum dolor (h6 wrapped by .choosenClass)</h6>
+	<div class="chosenClass">
+		<h1>Lorem ipsum dolor (h1 wrapped by .chosenClass)</h1>
+		<h2>Lorem ipsum dolor (h2 wrapped by .chosenClass)</h2>
+		<h3>Lorem ipsum dolor (h3 wrapped by .chosenClass)</h3>
+		<h4>Lorem ipsum dolor (h4 wrapped by .chosenClass)</h4>
+		<h5>Lorem ipsum dolor (h5 wrapped by .chosenClass)</h5>
+		<h6>Lorem ipsum dolor (h6 wrapped by .chosenClass)</h6>
 	</div>
 
 
@@ -44,13 +81,13 @@
 	<h3>Raw text</h3>
 	Lorem ipsum sea ei aperiam oporteat, minim libris graeci nam ne. An eros perfecto temporibus vel. Cum no natum accusata, duo dolore soleat ponderum at, nam ei erroribus splendide disputationi. Per ullum nullam alienum cu.
 	
-	<h3>Raw text wrapped by .choosenClass</h3>
-	<div class="choosenClass">
+	<h3>Raw text wrapped by .chosenClass</h3>
+	<div class="chosenClass">
 		Lorem ipsum sea ei aperiam oporteat, minim libris graeci nam ne. An eros perfecto temporibus vel. Cum no natum accusata, duo dolore soleat ponderum at, nam ei erroribus splendide disputationi. Per ullum nullam alienum cu.
 	</div>
 	
-	<h3>Paragraph wrapped by .choosenClass</h3>
-	<div class="choosenClass">
+	<h3>Paragraph wrapped by .chosenClass</h3>
+	<div class="chosenClass">
 		<p>Lorem ipsum sea ei aperiam oporteat, minim libris graeci nam ne. An eros perfecto temporibus vel. Cum no natum accusata, duo dolore soleat ponderum at, nam ei erroribus splendide disputationi. Per ullum nullam alienum cu.</p>
 	</div>
 	
